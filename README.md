@@ -17,7 +17,7 @@
 
 ### App Walkthough GIF
 
-<img src="flixster_walkthrough.gif" title="Flixster walkthrough" width=250><br>
+<img src="Flixter/flixster_walkthrough.gif" title="Flixster walkthrough" width=250><br>
 
 ### Notes
 For some reason my app does not display the title or overview on the side but is below all the images. It can be seen if you scroll quickly enough. I believe this has to do with the item_movie.xml file but I couldn't figure our why.
