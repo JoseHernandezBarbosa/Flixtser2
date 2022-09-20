@@ -1,12 +1,7 @@
 
-## Flix Part 2
+## Flixter
 
-### User Stories
-
-#### REQUIRED (10pts)
-
-- [x] Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
-- [x] Allow video posts to be played in full-screen using the YouTubePlayerView.
+This app uses a movies API to display the current movies in theaters on Android.
 
 
 ### App Walkthough GIF
